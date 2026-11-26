@@ -1,0 +1,1095 @@
+{
+ "appid": 1091500,
+ "name": "Cyberpunk 2077",
+ "collected_at": 1794906932,
+ "reviews": [
+  {
+   "date": 1606780800,
+   "positive": 227472,
+   "negative": 63333
+  },
+  {
+   "date": 1609459200,
+   "positive": 30673,
+   "negative": 9881
+  },
+  {
+   "date": 1612137600,
+   "positive": 7848,
+   "negative": 3481
+  },
+  {
+   "date": 1614556800,
+   "positive": 5513,
+   "negative": 3805
+  },
+  {
+   "date": 1617235200,
+   "positive": 5177,
+   "negative": 2442
+  },
+  {
+   "date": 1619827200,
+   "positive": 3936,
+   "negative": 2043
+  },
+  {
+   "date": 1622505600,
+   "positive": 3444,
+   "negative": 2048
+  },
+  {
+   "date": 1625097600,
+   "positive": 3559,
+   "negative": 1583
+  },
+  {
+   "date": 1627776000,
+   "positive": 3713,
+   "negative": 1833
+  },
+  {
+   "date": 1630454400,
+   "positive": 3439,
+   "negative": 1308
+  },
+  {
+   "date": 1633046400,
+   "positive": 2537,
+   "negative": 941
+  },
+  {
+   "date": 1635724800,
+   "positive": 22124,
+   "negative": 4306
+  },
+  {
+   "date": 1638316800,
+   "positive": 8281,
+   "negative": 2956
+  },
+  {
+   "date": 1640995200,
+   "positive": 5386,
+   "negative": 1620
+  },
+  {
+   "date": 1643673600,
+   "positive": 7466,
+   "negative": 2410
+  },
+  {
+   "date": 1646092800,
+   "positive": 5293,
+   "negative": 5142
+  },
+  {
+   "date": 1648771200,
+   "positive": 3155,
+   "negative": 687
+  },
+  {
+   "date": 1651363200,
+   "positive": 3109,
+   "negative": 545
+  },
+  {
+   "date": 1654041600,
+   "positive": 2832,
+   "negative": 655
+  },
+  {
+   "date": 1656633600,
+   "positive": 3356,
+   "negative": 649
+  },
+  {
+   "date": 1659312000,
+   "positive": 3206,
+   "negative": 553
+  },
+  {
+   "date": 1661990400,
+   "positive": 13058,
+   "negative": 1955
+  },
+  {
+   "date": 1664582400,
+   "positive": 12220,
+   "negative": 1406
+  },
+  {
+   "date": 1667260800,
+   "positive": 14795,
+   "negative": 1214
+  },
+  {
+   "date": 1669852800,
+   "positive": 9982,
+   "negative": 1158
+  },
+  {
+   "date": 1672531200,
+   "positive": 10445,
+   "negative": 1612
+  },
+  {
+   "date": 1675209600,
+   "positive": 4942,
+   "negative": 904
+  },
+  {
+   "date": 1677628800,
+   "positive": 4659,
+   "negative": 652
+  },
+  {
+   "date": 1680307200,
+   "positive": 5627,
+   "negative": 1431
+  },
+  {
+   "date": 1682899200,
+   "positive": 3622,
+   "negative": 559
+  },
+  {
+   "date": 1685577600,
+   "positive": 5250,
+   "negative": 1040
+  },
+  {
+   "date": 1688169600,
+   "positive": 6616,
+   "negative": 848
+  },
+  {
+   "date": 1690848000,
+   "positive": 6129,
+   "negative": 712
+  },
+  {
+   "date": 1693526400,
+   "positive": 15504,
+   "negative": 2438
+  },
+  {
+   "date": 1696118400,
+   "positive": 19547,
+   "negative": 2195
+  },
+  {
+   "date": 1698796800,
+   "positive": 9705,
+   "negative": 841
+  },
+  {
+   "date": 1701388800,
+   "positive": 14012,
+   "negative": 1322
+  },
+  {
+   "date": 1704067200,
+   "positive": 10317,
+   "negative": 780
+  },
+  {
+   "date": 1706745600,
+   "positive": 8055,
+   "negative": 719
+  },
+  {
+   "date": 1709251200,
+   "positive": 7616,
+   "negative": 611
+  },
+  {
+   "date": 1711929600,
+   "positive": 6628,
+   "negative": 464
+  },
+  {
+   "date": 1714521600,
+   "positive": 8090,
+   "negative": 487
+  },
+  {
+   "date": 1717200000,
+   "positive": 5984,
+   "negative": 342
+  },
+  {
+   "date": 1719792000,
+   "positive": 7733,
+   "negative": 861
+  },
+  {
+   "date": 1722470400,
+   "positive": 6835,
+   "negative": 456
+  },
+  {
+   "date": 1725148800,
+   "positive": 7242,
+   "negative": 467
+  },
+  {
+   "date": 1727740800,
+   "positive": 6435,
+   "negative": 343
+  },
+  {
+   "date": 1730419200,
+   "positive": 7333,
+   "negative": 417
+  },
+  {
+   "date": 1733011200,
+   "positive": 12369,
+   "negative": 758
+  },
+  {
+   "date": 1735689600,
+   "positive": 11997,
+   "negative": 628
+  },
+  {
+   "date": 1738368000,
+   "positive": 8082,
+   "negative": 377
+  },
+  {
+   "date": 1740787200,
+   "positive": 8862,
+   "negative": 489
+  },
+  {
+   "date": 1743465600,
+   "positive": 6308,
+   "negative": 295
+  },
+  {
+   "date": 1746057600,
+   "positive": 7419,
+   "negative": 500
+  },
+  {
+   "date": 1748736000,
+   "positive": 7342,
+   "negative": 408
+  },
+  {
+   "date": 1751328000,
+   "positive": 12930,
+   "negative": 787
+  },
+  {
+   "date": 1754006400,
+   "positive": 11867,
+   "negative": 799
+  },
+  {
+   "date": 1756684800,
+   "positive": 7961,
+   "negative": 531
+  },
+  {
+   "date": 1759276800,
+   "positive": 8210,
+   "negative": 503
+  },
+  {
+   "date": 1761955200,
+   "positive": 6003,
+   "negative": 367
+  },
+  {
+   "date": 1764547200,
+   "positive": 11035,
+   "negative": 672
+  },
+  {
+   "date": 1767225600,
+   "positive": 9483,
+   "negative": 602
+  },
+  {
+   "date": 1769904000,
+   "positive": 6285,
+   "negative": 366
+  },
+  {
+   "date": 1772323200,
+   "positive": 7041,
+   "negative": 407
+  },
+  {
+   "date": 1775001600,
+   "positive": 6805,
+   "negative": 388
+  },
+  {
+   "date": 1777593600,
+   "positive": 6721,
+   "negative": 398
+  },
+  {
+   "date": 1780272000,
+   "positive": 8941,
+   "negative": 602
+  },
+  {
+   "date": 1782864000,
+   "positive": 14495,
+   "negative": 772
+  },
+  {
+   "date": 1785542400,
+   "positive": 11473,
+   "negative": 655
+  },
+  {
+   "date": 1788220800,
+   "positive": 5969,
+   "negative": 341
+  },
+  {
+   "date": 1790812800,
+   "positive": 15227,
+   "negative": 1016
+  },
+  {
+   "date": 1793491200,
+   "positive": 7225,
+   "negative": 460
+  }
+ ],
+ "announcements": [
+  {
+   "gid": "2411028931151856896",
+   "date": 1560113606,
+   "title": "Get ready.",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2411028931151856896"
+  },
+  {
+   "gid": "2411028931154554746",
+   "date": 1560178110,
+   "title": "Cyberpunk 2077 — Official E3 2019 Gameplay Sneak Peek",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2411028931154554746"
+  },
+  {
+   "gid": "2415540140460823876",
+   "date": 1567192631,
+   "title": "Cyberpunk 2077 – Deep Dive Video",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2415540140460823876"
+  },
+  {
+   "gid": "3370312875250730252",
+   "date": 1576212892,
+   "title": "So, what does Night City sound like?",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3370312875250730252"
+  },
+  {
+   "gid": "3690071589841827810",
+   "date": 1579198556,
+   "title": "Important news regarding Cyberpunk 2077 release date",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3690071589841827810"
+  },
+  {
+   "gid": "2978509755363775361",
+   "date": 1586270741,
+   "title": "Cyber-Up your PC - Cyberpunk 2077 case modding contest is here!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2978509755363775361"
+  },
+  {
+   "gid": "3444639924494482168",
+   "date": 1593101241,
+   "title": "Legends are born in Night City",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3444639924494482168"
+  },
+  {
+   "gid": "3444639924494702338",
+   "date": 1593106493,
+   "title": "Night City Wire, Episode 01!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3444639924494702338"
+  },
+  {
+   "gid": "3667572003473649831",
+   "date": 1597080838,
+   "title": "Cyberpunk 2077 — Night City Wire: Episode 2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3667572003473649831"
+  },
+  {
+   "gid": "3788045105542489693",
+   "date": 1598980436,
+   "title": "Watch Cyberpunk 2077 on NVIDIA GeForce RTX 30 Series",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3788045105542489693"
+  },
+  {
+   "gid": "3819572206271586632",
+   "date": 1600446946,
+   "title": "C:\\cp77\\hardware_requirements.info",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3819572206271586632"
+  },
+  {
+   "gid": "3819572206271932638",
+   "date": 1600455216,
+   "title": "Cyberpunk 2077 — Night City Wire: Episode 3",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3819572206271932638"
+  },
+  {
+   "gid": "3807188575863080693",
+   "date": 1601895924,
+   "title": "Cyberpunk 2077 - GOLD",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3807188575863080693"
+  },
+  {
+   "gid": "5422856308612692014",
+   "date": 1602788466,
+   "title": "Cyberpunk 2077 — Night City Wire: Episode 4",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5422856308612692014"
+  },
+  {
+   "gid": "3895010671355669284",
+   "date": 1603817163,
+   "title": "Important announcement regarding Cyberpunk 2077 release date",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3895010671355669284"
+  },
+  {
+   "gid": "3856732771954203359",
+   "date": 1605809218,
+   "title": "Cyberpunk 2077 — Official Gameplay Trailer",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3856732771954203359"
+  },
+  {
+   "gid": "3856732771954518488",
+   "date": 1605816679,
+   "title": "Listen to the official EP with 6 tracks of the original score!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3856732771954518488"
+  },
+  {
+   "gid": "3856732771957495984",
+   "date": 1605887853,
+   "title": "System requirements for Cyberpunk 2077 - UPDATE!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3856732771957495984"
+  },
+  {
+   "gid": "3856732771957989520",
+   "date": 1605899647,
+   "title": "Cyberpunk 2077 — Night City Wire: Episode 5",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3856732771957989520"
+  },
+  {
+   "gid": "3856733252002917188",
+   "date": 1606320316,
+   "title": "Steam exclusive goodies",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3856733252002917188"
+  },
+  {
+   "gid": "3856733878313289430",
+   "date": 1607446923,
+   "title": "Cyberpunk 2077 — Official Launch Trailer — V",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3856733878313289430"
+  },
+  {
+   "gid": "4090922416506107041",
+   "date": 1608471249,
+   "title": "Hotfix 1.05",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4090922416506107041"
+  },
+  {
+   "gid": "3917534300070998692",
+   "date": 1608761792,
+   "title": "Hotfix 1.06",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3917534300070998692"
+  },
+  {
+   "gid": "4043637067847227736",
+   "date": 1610571978,
+   "title": "Cyberpunk 2077 — Our Commitment to Quality",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4043637067847227736"
+  },
+  {
+   "gid": "4043637702552482038",
+   "date": 1611354062,
+   "title": "Patch 1.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4043637702552482038"
+  },
+  {
+   "gid": "4050393736338090696",
+   "date": 1611837196,
+   "title": "Hotfix 1.11",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4050393736338090696"
+  },
+  {
+   "gid": "4051520458172362098",
+   "date": 1612523404,
+   "title": "Hotfix 1.12",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4051520458172362098"
+  },
+  {
+   "gid": "4060529371698905790",
+   "date": 1614182903,
+   "title": "Patch 1.2 — Development Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4060529371698905790"
+  },
+  {
+   "gid": "4048146376714165994",
+   "date": 1616169629,
+   "title": "What’s new in Night City?",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4048146376714165994"
+  },
+  {
+   "gid": "4026754911359237539",
+   "date": 1617015010,
+   "title": "Patch 1.2 — list of changes [Part 2/2]",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4026754911359237539"
+  },
+  {
+   "gid": "4026754911359237896",
+   "date": 1617015018,
+   "title": "Patch 1.2 — list of changes [Part 1/2]",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4026754911359237896"
+  },
+  {
+   "gid": "4026754911360083107",
+   "date": 1617035082,
+   "title": "Patch 1.2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4026754911360083107"
+  },
+  {
+   "gid": "4054904311338631359",
+   "date": 1618395787,
+   "title": "Hotfix 1.21",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4054904311338631359"
+  },
+  {
+   "gid": "4074045878068448858",
+   "date": 1619605431,
+   "title": "Hotfix 1.22",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4074045878068448858"
+  },
+  {
+   "gid": "4056035920054381971",
+   "date": 1623925550,
+   "title": "Patch 1.23",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4056035920054381971"
+  },
+  {
+   "gid": "4516534149070212389",
+   "date": 1629126096,
+   "title": "What’s new in Night City? [Patch 1.3 development insight]",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4516534149070212389"
+  },
+  {
+   "gid": "4516534149074127662",
+   "date": 1629219017,
+   "title": "Patch 1.3 - list of changes [Part 2/2]",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4516534149074127662"
+  },
+  {
+   "gid": "4516534149074128323",
+   "date": 1629219033,
+   "title": "Patch 1.3 - list of changes [Part 1/2]",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4516534149074128323"
+  },
+  {
+   "gid": "4022264629307237893",
+   "date": 1629282055,
+   "title": "Patch 1.3",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4022264629307237893"
+  },
+  {
+   "gid": "4022264629311439411",
+   "date": 1629381768,
+   "title": "It’s All About You! #1 — Cyberpunk 2077",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4022264629311439411"
+  },
+  {
+   "gid": "4020014731812629503",
+   "date": 1631614975,
+   "title": "Patch 1.31",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4020014731812629503"
+  },
+  {
+   "gid": "4224936849654155531",
+   "date": 1639141492,
+   "title": "1 year with Cyberpunk 2077",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4224936849654155531"
+  },
+  {
+   "gid": "4224938027340277979",
+   "date": 1641235212,
+   "title": "Steam Awards 2021 - Thank you for voting!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4224938027340277979"
+  },
+  {
+   "gid": "4237325463675044395",
+   "date": 1642773812,
+   "title": "It's All About You — Episode 4: Guests of the Afterlife",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4237325463675044395"
+  },
+  {
+   "gid": "6154735015628907361",
+   "date": 1644850850,
+   "title": "REDstreams #2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6154735015628907361"
+  },
+  {
+   "gid": "6154735015632765372",
+   "date": 1644942346,
+   "title": "Patch 1.5 — list of changes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6154735015632765372"
+  },
+  {
+   "gid": "6154735015632778595",
+   "date": 1644942653,
+   "title": "Patch 1.5",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6154735015632778595"
+  },
+  {
+   "gid": "4246335198910178636",
+   "date": 1645524809,
+   "title": "Thank you, Cyberpunk 2077 Community!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4246335198910178636"
+  },
+  {
+   "gid": "4246335832522548303",
+   "date": 1646050545,
+   "title": "PC Hotfix",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4246335832522548303"
+  },
+  {
+   "gid": "4259848535845652761",
+   "date": 1647952935,
+   "title": "Patch 1.52",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4259848535845652761"
+  },
+  {
+   "gid": "4258723269526411136",
+   "date": 1648562650,
+   "title": "It's All About You – Episode 5: Streets of Night City",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4258723269526411136"
+  },
+  {
+   "gid": "4347669995456748462",
+   "date": 1648648935,
+   "title": "Take part in Cyberpunk 2077 Photo Mode Challenge!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4347669995456748462"
+  },
+  {
+   "gid": "4480533160882544741",
+   "date": 1655302580,
+   "title": "It's All About You – Episode 7: A Thing of Beauty",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4480533160882544741"
+  },
+  {
+   "gid": "4474904295759064609",
+   "date": 1656684028,
+   "title": "20 years of CD PROJEKT RED!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4474904295759064609"
+  },
+  {
+   "gid": "4598757090465231357",
+   "date": 1659978716,
+   "title": "20 years of CD PROJEKT RED: The Sale",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4598757090465231357"
+  },
+  {
+   "gid": "4514316500002217838",
+   "date": 1661422208,
+   "title": "20 years of CD PROJEKT RED: Anniversary Streams — Cyberpunk 2077",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4514316500002217838"
+  },
+  {
+   "gid": "4621277624694451863",
+   "date": 1662123652,
+   "title": "Night City Wire returns!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4621277624694451863"
+  },
+  {
+   "gid": "4621277624709378574",
+   "date": 1662477762,
+   "title": "Announcing Cyberpunk 2077: Phantom Liberty",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4621277624709378574"
+  },
+  {
+   "gid": "4621277624709492472",
+   "date": 1662480453,
+   "title": "Edgerunners Update (Patch 1.6) — list of changes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4621277624709492472"
+  },
+  {
+   "gid": "4621277624710134681",
+   "date": 1662495685,
+   "title": "Mod away with REDmod!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4621277624710134681"
+  },
+  {
+   "gid": "4589754330732160133",
+   "date": 1663855267,
+   "title": "It's All About You – Episode 9: Dream on!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4589754330732160133"
+  },
+  {
+   "gid": "4589754330735920669",
+   "date": 1663944435,
+   "title": "Thank you for celebrating 20 years of CD PROJEKT RED",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4589754330735920669"
+  },
+  {
+   "gid": "6402455182508420847",
+   "date": 1665758092,
+   "title": "Cyberpunk 2077: Phantom Liberty Music Contest",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6402455182508420847"
+  },
+  {
+   "gid": "4732747437219989700",
+   "date": 1667909039,
+   "title": "Patch 1.61",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4732747437219989700"
+  },
+  {
+   "gid": "4836332027648516143",
+   "date": 1669131542,
+   "title": "Cyberpunk: Edgerunners receives The Game Awards 2022 nomination!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4836332027648516143"
+  },
+  {
+   "gid": "4979322040017145616",
+   "date": 1669910579,
+   "title": "It’s All About You! — Episode 10",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4979322040017145616"
+  },
+  {
+   "gid": "4980448574110807000",
+   "date": 1670557150,
+   "title": "Watch the new Cyberpunk 2077: Phantom Liberty teaser!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4980448574110807000"
+  },
+  {
+   "gid": "5000716037443121252",
+   "date": 1671732056,
+   "title": "Steam Awards 2022 — Vote Cyberpunk 2077!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5000716037443121252"
+  },
+  {
+   "gid": "5000716037490082304",
+   "date": 1672845601,
+   "title": "Steam Awards 2022: Labor of Love — Thank you!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5000716037490082304"
+  },
+  {
+   "gid": "5035622743876171621",
+   "date": 1675253918,
+   "title": "DLSS 3 & Reflex PC Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5035622743876171621"
+  },
+  {
+   "gid": "5059268543375530877",
+   "date": 1677600060,
+   "title": "Cyberpunk 2077 — Verified on Steam Deck",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5059268543375530877"
+  },
+  {
+   "gid": "5121196841292056571",
+   "date": 1680872524,
+   "title": "Welcome to \"Behind the Settings\" technical video!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5121196841292056571"
+  },
+  {
+   "gid": "5121196841306328909",
+   "date": 1681210988,
+   "title": "Patch 1.62 — Ray Tracing: Overdrive Mode",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5121196841306328909"
+  },
+  {
+   "gid": "6539831519492507524",
+   "date": 1681557057,
+   "title": "It's All About You – Episode 12: Nocturne OP55N1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6539831519492507524"
+  },
+  {
+   "gid": "5133583099795268451",
+   "date": 1681992121,
+   "title": "Hotfix available",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5133583099795268451"
+  },
+  {
+   "gid": "5129083846350673182",
+   "date": 1686506997,
+   "title": "Cyberpunk 2077: Phantom Liberty arrives on September 26th!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5129083846350673182"
+  },
+  {
+   "gid": "5129083846350727032",
+   "date": 1686508272,
+   "title": "Update to PC System Requirements",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5129083846350727032"
+  },
+  {
+   "gid": "5129083846350800904",
+   "date": 1686510027,
+   "title": "The Ukrainian Language is Coming to Cyberpunk 2077",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5129083846350800904"
+  },
+  {
+   "gid": "5129083846353730933",
+   "date": 1686579473,
+   "title": "Developer breakdown of the official trailer",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5129083846353730933"
+  },
+  {
+   "gid": "5896948309857475131",
+   "date": 1687262860,
+   "title": "Patch 1.63 — list of changes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5896948309857475131"
+  },
+  {
+   "gid": "5124581515258678799",
+   "date": 1687532960,
+   "title": "Hotfix available",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124581515258678799"
+  },
+  {
+   "gid": "5124582150156561629",
+   "date": 1688655611,
+   "title": "Phantom Liberty Tour",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124582150156561629"
+  },
+  {
+   "gid": "5127964289192087688",
+   "date": 1692732591,
+   "title": "NEW FEATURES ARE COMING TO CYBERPUNK 2077 ALONG WITH PHANTOM LIBERTY!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5127964289192087688"
+  },
+  {
+   "gid": "5141475722334519772",
+   "date": 1693058507,
+   "title": "REDstreams — brief summary and recap",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141475722334519772"
+  },
+  {
+   "gid": "5480373588782965128",
+   "date": 1694706024,
+   "title": "Update 2.0 date revealed!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5480373588782965128"
+  },
+  {
+   "gid": "5480373588782970982",
+   "date": 1694706164,
+   "title": "Build Planner — craft your Cyberpunk 2077 and Phantom Liberty builds!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5480373588782970982"
+  },
+  {
+   "gid": "5219165352624021366",
+   "date": 1695308559,
+   "title": "Update 2.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5219165352624021366"
+  },
+  {
+   "gid": "5219165352639820992",
+   "date": 1695683093,
+   "title": "Cyberpunk 2077: Phantom Liberty — out now!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5219165352639820992"
+  },
+  {
+   "gid": "5220292521180179133",
+   "date": 1696500260,
+   "title": "Patch 2.01",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5220292521180179133"
+  },
+  {
+   "gid": "5229301621575632760",
+   "date": 1698315055,
+   "title": "Patch 2.02",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621575632760"
+  },
+  {
+   "gid": "6560117310268075150",
+   "date": 1700233281,
+   "title": "It’s All About You! — S02E01: Nothing to doubt",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6560117310268075150"
+  },
+  {
+   "gid": "5382426458969888521",
+   "date": 1700571719,
+   "title": "Cyberpunk 2077: Ultimate Edition arrives on December 5th!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5382426458969888521"
+  },
+  {
+   "gid": "5382426458995715562",
+   "date": 1701187128,
+   "title": "Cyberpunk 2077 in The Game Awards 2023",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5382426458995715562"
+  },
+  {
+   "gid": "5395937983660884873",
+   "date": 1701345709,
+   "title": "Tune in to REDstreams to learn more about Update 2.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5395937983660884873"
+  },
+  {
+   "gid": "5395937983666053297",
+   "date": 1701468166,
+   "title": "REDstreams summary and recap",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5395937983666053297"
+  },
+  {
+   "gid": "5395937983676444229",
+   "date": 1701714508,
+   "title": "Update 2.1 Patch Notes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5395937983676444229"
+  },
+  {
+   "gid": "5395937983678981152",
+   "date": 1701774640,
+   "title": "Update 2.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5395937983678981152"
+  },
+  {
+   "gid": "5582843074936820948",
+   "date": 1706699288,
+   "title": "Patch 2.11",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5582843074936820948"
+  },
+  {
+   "gid": "5688680204369809360",
+   "date": 1709204495,
+   "title": "Patch 2.12",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5688680204369809360"
+  },
+  {
+   "gid": "6474562312182178647",
+   "date": 1712865716,
+   "title": "BAFTA Games Awards",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6474562312182178647"
+  },
+  {
+   "gid": "6250522009509072767",
+   "date": 1726050273,
+   "title": "It’s All About You! — Edgerunners Special: Wish We Could Go To The Moon Together",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6250522009509072767"
+  },
+  {
+   "gid": "6250522009512966180",
+   "date": 1726142531,
+   "title": "Patch 2.13",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6250522009512966180"
+  },
+  {
+   "gid": "6350729003494971321",
+   "date": 1727979387,
+   "title": "Blocktober 1 - Bartłomiej Pyrko",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6350729003494971321"
+  },
+  {
+   "gid": "6931694080291666085",
+   "date": 1728571106,
+   "title": "Blocktober 2 - Marta Dobińska",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6931694080291666085"
+  },
+  {
+   "gid": "6212244583172587040",
+   "date": 1729092809,
+   "title": "Blocktober 3 — Andrzej Giełzak",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6212244583172587040"
+  },
+  {
+   "gid": "6212245217911793092",
+   "date": 1729699158,
+   "title": "Blocktober 4 — Sebastian McBride",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6212245217911793092"
+  },
+  {
+   "gid": "6146943657173866984",
+   "date": 1730294157,
+   "title": "Blocktober 5 — Sebastian McBride and Mariusz Kubów",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6146943657173866984"
+  },
+  {
+   "gid": "1785321795740007",
+   "date": 1733764487,
+   "title": "REDstreams — Update 2.2 is coming!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785321795740007"
+  },
+  {
+   "gid": "1785321795772422",
+   "date": 1733850078,
+   "title": "Update 2.2 is live!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785321795772422"
+  },
+  {
+   "gid": "1785774543496368",
+   "date": 1733933719,
+   "title": "Take Your Shot in Photo Mode Challenge 3.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543496368"
+  },
+  {
+   "gid": "1789580505302900",
+   "date": 1737630343,
+   "title": "Patch 2.21",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1789580505302900"
+  },
+  {
+   "gid": "1805431065307946",
+   "date": 1752682358,
+   "title": "Update 2.3 Patch Notes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065307946"
+  },
+  {
+   "gid": "1808601382440513",
+   "date": 1755771644,
+   "title": "It’s All About You! — Edgerunners duos: To the Moon Together",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382440513"
+  },
+  {
+   "gid": "1810503566412448",
+   "date": 1757585343,
+   "title": "Patch 2.31",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1810503566412448"
+  },
+  {
+   "gid": "1818752592121364",
+   "date": 1765386445,
+   "title": "5th Anniversary Trailer — City of Legends",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592121364"
+  },
+  {
+   "gid": "1819386365089430",
+   "date": 1766058246,
+   "title": "It’s All About You! — Never Fade Away",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365089430"
+  },
+  {
+   "gid": "1835236783557599",
+   "date": 1781099053,
+   "title": "It’s All About You! — A Crew to Remember",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783557599"
+  },
+  {
+   "gid": "1846651706694551",
+   "date": 1792490433,
+   "title": "REDstreams — Cyberpunk 2077: Edgerunners 2 Update (2.5) is coming!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694551"
+  },
+  {
+   "gid": "1847286114029307",
+   "date": 1792597515,
+   "title": "Check out what's coming to Cyberpunk 2077 in the Edgerunners 2 Update!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114029307"
+  },
+  {
+   "gid": "1847286114032016",
+   "date": 1792663614,
+   "title": "Cyberpunk 2077's Edgerunners 2 Update (2.5) is out now!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032016"
+  },
+  {
+   "gid": "1847286114045127",
+   "date": 1793025540,
+   "title": "REDstreams – Cyberpunk: Edgerunners 2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114045127"
+  }
+ ]
+}

@@ -1,0 +1,1205 @@
+{
+ "appid": 553850,
+ "name": "Helldivers 2",
+ "collected_at": 1794906933,
+ "reviews": [
+  {
+   "date": 1706745600,
+   "positive": 119827,
+   "negative": 40360
+  },
+  {
+   "date": 1709251200,
+   "positive": 98970,
+   "negative": 16423
+  },
+  {
+   "date": 1711929600,
+   "positive": 45283,
+   "negative": 6147
+  },
+  {
+   "date": 1714521600,
+   "positive": 114571,
+   "negative": 228757
+  },
+  {
+   "date": 1717200000,
+   "positive": 8762,
+   "negative": 1872
+  },
+  {
+   "date": 1719792000,
+   "positive": 4573,
+   "negative": 873
+  },
+  {
+   "date": 1722470400,
+   "positive": 4979,
+   "negative": 7609
+  },
+  {
+   "date": 1725148800,
+   "positive": 5011,
+   "negative": 1744
+  },
+  {
+   "date": 1727740800,
+   "positive": 4448,
+   "negative": 489
+  },
+  {
+   "date": 1730419200,
+   "positive": 13175,
+   "negative": 786
+  },
+  {
+   "date": 1733011200,
+   "positive": 15858,
+   "negative": 1713
+  },
+  {
+   "date": 1735689600,
+   "positive": 9104,
+   "negative": 598
+  },
+  {
+   "date": 1738368000,
+   "positive": 7688,
+   "negative": 827
+  },
+  {
+   "date": 1740787200,
+   "positive": 6230,
+   "negative": 895
+  },
+  {
+   "date": 1743465600,
+   "positive": 3601,
+   "negative": 461
+  },
+  {
+   "date": 1746057600,
+   "positive": 10776,
+   "negative": 5567
+  },
+  {
+   "date": 1748736000,
+   "positive": 9387,
+   "negative": 1146
+  },
+  {
+   "date": 1751328000,
+   "positive": 6079,
+   "negative": 739
+  },
+  {
+   "date": 1754006400,
+   "positive": 5514,
+   "negative": 828
+  },
+  {
+   "date": 1756684800,
+   "positive": 8887,
+   "negative": 5089
+  },
+  {
+   "date": 1759276800,
+   "positive": 4306,
+   "negative": 2819
+  },
+  {
+   "date": 1761955200,
+   "positive": 5551,
+   "negative": 1088
+  },
+  {
+   "date": 1764547200,
+   "positive": 4942,
+   "negative": 871
+  },
+  {
+   "date": 1767225600,
+   "positive": 4265,
+   "negative": 638
+  },
+  {
+   "date": 1769904000,
+   "positive": 8902,
+   "negative": 1425
+  },
+  {
+   "date": 1772323200,
+   "positive": 5955,
+   "negative": 3498
+  },
+  {
+   "date": 1775001600,
+   "positive": 3860,
+   "negative": 4573
+  },
+  {
+   "date": 1777593600,
+   "positive": 3446,
+   "negative": 4434
+  },
+  {
+   "date": 1780272000,
+   "positive": 2571,
+   "negative": 1053
+  },
+  {
+   "date": 1782864000,
+   "positive": 2851,
+   "negative": 704
+  },
+  {
+   "date": 1785542400,
+   "positive": 4986,
+   "negative": 1103
+  },
+  {
+   "date": 1788220800,
+   "positive": 3616,
+   "negative": 577
+  },
+  {
+   "date": 1790812800,
+   "positive": 3813,
+   "negative": 6754
+  },
+  {
+   "date": 1793491200,
+   "positive": 1242,
+   "negative": 4763
+  }
+ ],
+ "announcements": [
+  {
+   "gid": "5219165352626940929",
+   "date": 1695377762,
+   "title": "HELLDIVERS™ 2 launches 8th February 2024!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5219165352626940929"
+  },
+  {
+   "gid": "5229301621576365789",
+   "date": 1698332422,
+   "title": "Wishing you all a happy Liberty Day!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621576365789"
+  },
+  {
+   "gid": "5410576585199646855",
+   "date": 1704816292,
+   "title": "HELLDIVERS™ 2 PC SPECIFICATIONS AND CROSSPLAY SUPPORT CONFIRMED!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5410576585199646855"
+  },
+  {
+   "gid": "6300039510138680462",
+   "date": 1705428129,
+   "title": "HELLDIVERS™2 Has Gone Gold!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6300039510138680462"
+  },
+  {
+   "gid": "5510784213116609632",
+   "date": 1706026923,
+   "title": "Helldivers 2: Join the Galactic War",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5510784213116609632"
+  },
+  {
+   "gid": "5519792046267044788",
+   "date": 1706632559,
+   "title": "WARBONDS: Supporting the Galactic War Effort",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5519792046267044788"
+  },
+  {
+   "gid": "5582843074959536818",
+   "date": 1707237585,
+   "title": "HELLDIVERS 2: The Story So Far",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5582843074959536818"
+  },
+  {
+   "gid": "5589599109270039562",
+   "date": 1707512181,
+   "title": "01.000.004",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5589599109270039562"
+  },
+  {
+   "gid": "5589599109277750749",
+   "date": 1707694978,
+   "title": "[12 Feb 2024] Server Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5589599109277750749"
+  },
+  {
+   "gid": "5589599109280829234",
+   "date": 1707767928,
+   "title": "Patch 01.000.005",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5589599109280829234"
+  },
+  {
+   "gid": "5750603429271964525",
+   "date": 1707899764,
+   "title": "Patch 01.000.006",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5750603429271964525"
+  },
+  {
+   "gid": "8033928544491845182",
+   "date": 1707987681,
+   "title": "🛠️ PATCH 01.000.007 (PC & PS5) ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/8033928544491845182"
+  },
+  {
+   "gid": "8033928544495490813",
+   "date": 1708074091,
+   "title": "🛠️ PATCH 01.000.008 ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/8033928544495490813"
+  },
+  {
+   "gid": "8033928544499354974",
+   "date": 1708165669,
+   "title": "🛠️ PATCH 01.000.009",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/8033928544499354974"
+  },
+  {
+   "gid": "8033928544511595918",
+   "date": 1708455824,
+   "title": "🛠️ PATCH 1.000.10 (PC) ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/8033928544511595918"
+  },
+  {
+   "gid": "5728086065181430776",
+   "date": 1708596111,
+   "title": "🛠️ PATCH 1.000.11 ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5728086065181430776"
+  },
+  {
+   "gid": "5728086065185076982",
+   "date": 1708682515,
+   "title": "🛠️ PATCH 1.000.12 ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5728086065185076982"
+  },
+  {
+   "gid": "5688680204366014911",
+   "date": 1709114577,
+   "title": "🛠️ PATCH 1.000.13 ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5688680204366014911"
+  },
+  {
+   "gid": "5679673637648064412",
+   "date": 1709720080,
+   "title": "Minor Patch 01.000.100",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637648064412"
+  },
+  {
+   "gid": "5679673637652370629",
+   "date": 1709822133,
+   "title": "HELLDIVERS 2: New Warbond Inbound!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637652370629"
+  },
+  {
+   "gid": "5679673637669908315",
+   "date": 1710237827,
+   "title": "Patch 1.000.102",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5679673637669908315"
+  },
+  {
+   "gid": "5686430301713851678",
+   "date": 1710929255,
+   "title": "PATCH 1.000.103",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301713851678"
+  },
+  {
+   "gid": "5686430301735711456",
+   "date": 1711447354,
+   "title": "PATCH 1.000.104",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301735711456"
+  },
+  {
+   "gid": "5749481331454547085",
+   "date": 1712048464,
+   "title": "PATCH 01.000.200",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5749481331454547085"
+  },
+  {
+   "gid": "5756237364303846301",
+   "date": 1712134927,
+   "title": "PATCH 01.000.201",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364303846301"
+  },
+  {
+   "gid": "5756237364308655582",
+   "date": 1712248874,
+   "title": "HELLDIVERS 2: Explosive New Warbond!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364308655582"
+  },
+  {
+   "gid": "5756237364325717626",
+   "date": 1712653312,
+   "title": "Patch 01.000.202",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5756237364325717626"
+  },
+  {
+   "gid": "6474562312198731215",
+   "date": 1713258041,
+   "title": "PATCH 01.000.203",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6474562312198731215"
+  },
+  {
+   "gid": "5759616966678500526",
+   "date": 1714381228,
+   "title": "Patch 01.000.300",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5759616966678500526"
+  },
+  {
+   "gid": "5766372999942968186",
+   "date": 1714640436,
+   "title": "Patch 1.000.301",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5766372999942968186"
+  },
+  {
+   "gid": "5766372999943498700",
+   "date": 1714653000,
+   "title": "Thrill and chill with the new HELLDIVERS 2 Warbond",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5766372999943498700"
+  },
+  {
+   "gid": "5766372999945329774",
+   "date": 1714696392,
+   "title": "HELLDIVERS™ 2 Account Linking Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5766372999945329774"
+  },
+  {
+   "gid": "5766372999961194641",
+   "date": 1715072463,
+   "title": "Patch 1.000.302",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5766372999961194641"
+  },
+  {
+   "gid": "5768625435391331661",
+   "date": 1715158828,
+   "title": "Patch 1.000.303",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5768625435391331661"
+  },
+  {
+   "gid": "5768625435413203266",
+   "date": 1715677239,
+   "title": "Patch 1.000.304",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5768625435413203266"
+  },
+  {
+   "gid": "5742731639336580135",
+   "date": 1717229020,
+   "title": "🛠️ PATCH 1.000.305 ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5742731639336580135"
+  },
+  {
+   "gid": "5746109972548721060",
+   "date": 1717676134,
+   "title": "The Viper Commandos run through the jungle on June 13!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5746109972548721060"
+  },
+  {
+   "gid": "6890025005348276470",
+   "date": 1718269233,
+   "title": "PATCH 01.000.400",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6890025005348276470"
+  },
+  {
+   "gid": "6890025005348276923",
+   "date": 1718269244,
+   "title": "PATCH 1.000.400 explained",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6890025005348276923"
+  },
+  {
+   "gid": "6890025005366505178",
+   "date": 1718701231,
+   "title": "Patch 1.000.402",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6890025005366505178"
+  },
+  {
+   "gid": "5759622039993783420",
+   "date": 1719306054,
+   "title": "Patch 01.000.403",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5759622039993783420"
+  },
+  {
+   "gid": "5759622039995305061",
+   "date": 1719342097,
+   "title": "Community Update: June 2024",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5759622039995305061"
+  },
+  {
+   "gid": "5842939267334567045",
+   "date": 1720086950,
+   "title": "Patch 01.000.404",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267334567045"
+  },
+  {
+   "gid": "5842939267356328728",
+   "date": 1720602787,
+   "title": "PATCH 1.000.405",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5842939267356328728"
+  },
+  {
+   "gid": "5969041959983009288",
+   "date": 1721740207,
+   "title": "Unleash more Liberty with Helldivers 2: Escalation of Freedom",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5969041959983009288"
+  },
+  {
+   "gid": "5963413094366479432",
+   "date": 1722345057,
+   "title": "Let the flames of freedom burn bright with new Helldivers 2 Warbond on 8 August.",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413094366479432"
+  },
+  {
+   "gid": "5963413728335110783",
+   "date": 1722517250,
+   "title": "Community Update: July 2024",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728335110783"
+  },
+  {
+   "gid": "5963413728349690223",
+   "date": 1722862862,
+   "title": "Escalation of Freedom Livestream Event",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728349690223"
+  },
+  {
+   "gid": "5963413728352726120",
+   "date": 1722934825,
+   "title": "Patch 1.001.002 Escalation of Freedom",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728352726120"
+  },
+  {
+   "gid": "5963413728354471629",
+   "date": 1722976183,
+   "title": "PATCH 1.001.002 explained",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963413728354471629"
+  },
+  {
+   "gid": "5963414363408442805",
+   "date": 1723548659,
+   "title": "Patch 01.001.003",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963414363408442805"
+  },
+  {
+   "gid": "5963414363409216198",
+   "date": 1723566980,
+   "title": "A message to the community from our game director",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5963414363409216198"
+  },
+  {
+   "gid": "6909171012613253258",
+   "date": 1724144466,
+   "title": "PATCH 01.001.004",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6909171012613253258"
+  },
+  {
+   "gid": "5875595438684288327",
+   "date": 1724239882,
+   "title": "Patch 1.001.005 Emergency Hot Fix",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5875595438684288327"
+  },
+  {
+   "gid": "6242640076596700234",
+   "date": 1725541306,
+   "title": "60 Day Timeline - Progress Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6242640076596700234"
+  },
+  {
+   "gid": "6250522009513151638",
+   "date": 1726146927,
+   "title": "The Chemical Agents Warbond is coming to Helldivers 2!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6250522009513151638"
+  },
+  {
+   "gid": "6250522009530732352",
+   "date": 1726563637,
+   "title": "Patch 1.001.100",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6250522009530732352"
+  },
+  {
+   "gid": "6341720536499099567",
+   "date": 1726667123,
+   "title": "HOT FIX 01.001.001",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6341720536499099567"
+  },
+  {
+   "gid": "6341720536520248065",
+   "date": 1727168435,
+   "title": "Patch 1.001.102",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6341720536520248065"
+  },
+  {
+   "gid": "6339469370199600107",
+   "date": 1727773485,
+   "title": "Patch 1.001.103",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6339469370199600107"
+  },
+  {
+   "gid": "6211118320240873195",
+   "date": 1728982835,
+   "title": "Patch 01.001.104",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6211118320240873195"
+  },
+  {
+   "gid": "6211118320240881542",
+   "date": 1728983035,
+   "title": "60 Day Timeline Conclusion Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6211118320240881542"
+  },
+  {
+   "gid": "6212245217911822084",
+   "date": 1729774892,
+   "title": "Helldivers 2 is launching Truth Enforcers Warbond on October 31st!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6212245217911822084"
+  },
+  {
+   "gid": "6212245217911980374",
+   "date": 1730196044,
+   "title": "Patch 01.001.201",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6212245217911980374"
+  },
+  {
+   "gid": "6146943657174057052",
+   "date": 1730800828,
+   "title": "Patch 1.001.202",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6146943657174057052"
+  },
+  {
+   "gid": "6148070194801752195",
+   "date": 1731405677,
+   "title": "Hotfix 01.001.203",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6148070194801752195"
+  },
+  {
+   "gid": "1785774543532671",
+   "date": 1734028133,
+   "title": "Visit the Game Awards on Steam to unlock the TR-117 Alpha Commander armor early!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543532671"
+  },
+  {
+   "gid": "1785774543543525",
+   "date": 1734056423,
+   "title": "PATCH 01.002.001",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543543525"
+  },
+  {
+   "gid": "1785774543543528",
+   "date": 1734056554,
+   "title": "Helldivers, join the fight against the Omens of Tyranny!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543543528"
+  },
+  {
+   "gid": "1785774543554310",
+   "date": 1734084082,
+   "title": "New Warbond dropping into HELLDIVERS 2 today!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543554310"
+  },
+  {
+   "gid": "1785774543682437",
+   "date": 1734429635,
+   "title": "PATCH 01.002.002",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1785774543682437"
+  },
+  {
+   "gid": "1786409468838210",
+   "date": 1734516046,
+   "title": "PATCH 01.002.203",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1786409468838210"
+  },
+  {
+   "gid": "1786409468838226",
+   "date": 1734516591,
+   "title": "Helldivers 2 x Killzone",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1786409468838226"
+  },
+  {
+   "gid": "1786409468879039",
+   "date": 1734621412,
+   "title": "A Helldivers x Killzone Update: Season's Greetings",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1786409468879039"
+  },
+  {
+   "gid": "1788311419172151",
+   "date": 1736848871,
+   "title": "PATCH 01.002.005",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1788311419172151"
+  },
+  {
+   "gid": "1790214123239446",
+   "date": 1738663245,
+   "title": "PATCH 01.002.101",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790214123239446"
+  },
+  {
+   "gid": "1790214123244237",
+   "date": 1738674706,
+   "title": "Super Earth calls for devotees with the latest Warbond: Servants of Freedom!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790214123244237"
+  },
+  {
+   "gid": "1790848102778271",
+   "date": 1739268024,
+   "title": "PATCH 01.002.103",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1790848102778271"
+  },
+  {
+   "gid": "1791482680856624",
+   "date": 1739363449,
+   "title": "PATCH 01.002.104",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1791482680856624"
+  },
+  {
+   "gid": "1791580426121311",
+   "date": 1739872833,
+   "title": "01.002.105",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1791580426121311"
+  },
+  {
+   "gid": "1792116353159820",
+   "date": 1739970030,
+   "title": "PATCH 01.002.106",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1792116353159820"
+  },
+  {
+   "gid": "1794102528231829",
+   "date": 1742292043,
+   "title": "Patch Notes 01.002.200",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1794102528231829"
+  },
+  {
+   "gid": "1794102528232715",
+   "date": 1742293423,
+   "title": "It’s high noon in Helldivers 2 with the new Borderline Justice Warbond!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1794102528232715"
+  },
+  {
+   "gid": "1794830911028846",
+   "date": 1742896838,
+   "title": "PATCH 01.002.201",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1794830911028846"
+  },
+  {
+   "gid": "1795283637975284",
+   "date": 1743498051,
+   "title": "PATCH 01.002.202",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795283637975284"
+  },
+  {
+   "gid": "1795917897352210",
+   "date": 1743757232,
+   "title": "Patch 01.002.203",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1795917897352210"
+  },
+  {
+   "gid": "1799088287832977",
+   "date": 1746710609,
+   "title": "Helldivers 2 Masters of Ceremony Marches in on May 15",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1799088287832977"
+  },
+  {
+   "gid": "1799088287984307",
+   "date": 1747126810,
+   "title": "Patch 01.003.000",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1799088287984307"
+  },
+  {
+   "gid": "1799088287984346",
+   "date": 1747127710,
+   "title": "RED ALERT: Illuminate emerge from the Meridian Singularity!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1799088287984346"
+  },
+  {
+   "gid": "1799817379495347",
+   "date": 1747386089,
+   "title": "Patch 01.003.001",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1799817379495347"
+  },
+  {
+   "gid": "1799817379623310",
+   "date": 1747731641,
+   "title": "Patch 01.003.002",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1799817379623310"
+  },
+  {
+   "gid": "1799817379623756",
+   "date": 1747732337,
+   "title": "Helldivers, it’s time to defend the Heart of Democracy!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1799817379623756"
+  },
+  {
+   "gid": "1800357164562071",
+   "date": 1748336541,
+   "title": "Patch 01.003.003",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800357164562071"
+  },
+  {
+   "gid": "1800991756338403",
+   "date": 1748595641,
+   "title": "Patch 01.003.004",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1800991756338403"
+  },
+  {
+   "gid": "1801617199401543",
+   "date": 1749152375,
+   "title": "Use the full Force of Law in the streets on June 12!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199401543"
+  },
+  {
+   "gid": "1801617199551135",
+   "date": 1749546038,
+   "title": "Patch 01.003.101",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1801617199551135"
+  },
+  {
+   "gid": "1802354289556614",
+   "date": 1749718833,
+   "title": "Patch 01.003.102",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289556614"
+  },
+  {
+   "gid": "1802354289717990",
+   "date": 1750150887,
+   "title": "🛠️ PATCH 01.003.103 ⚙️",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802354289717990"
+  },
+  {
+   "gid": "1802893906885230",
+   "date": 1750755646,
+   "title": "Patch 01.003.104",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1802893906885230"
+  },
+  {
+   "gid": "1803527891703582",
+   "date": 1751460677,
+   "title": "Warbond Token Announcement",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891703582"
+  },
+  {
+   "gid": "1803527891960756",
+   "date": 1752152781,
+   "title": "Helldivers 2 Control Group Warbond launches July 17!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1803527891960756"
+  },
+  {
+   "gid": "1805065414359608",
+   "date": 1752570038,
+   "title": "PATCH 01.003.200",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805065414359608"
+  },
+  {
+   "gid": "1805431065297162",
+   "date": 1752656473,
+   "title": "Patch 01.003.201",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1805431065297162"
+  },
+  {
+   "gid": "1806698490838553",
+   "date": 1754384439,
+   "title": "PATCH 01.003.202",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1806698490838553"
+  },
+  {
+   "gid": "1808061939502232",
+   "date": 1755609048,
+   "title": "The long-awaited HELLDIVERS™ 2 x HALO: ODST Legendary Warbond arrives August 26",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808061939502232"
+  },
+  {
+   "gid": "1808601382601176",
+   "date": 1756195288,
+   "title": "Patch 01.003.302",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382601176"
+  },
+  {
+   "gid": "1808601382607663",
+   "date": 1756211503,
+   "title": "Helldivers 2: Into the Unjust launches September 2!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1808601382607663"
+  },
+  {
+   "gid": "1809235871586619",
+   "date": 1756386556,
+   "title": "Dust Devils Premium Warbond coming to HELLDIVERS 2 on September 4!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871586619"
+  },
+  {
+   "gid": "1809235871613628",
+   "date": 1756458049,
+   "title": "Patch 01.003.303",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871613628"
+  },
+  {
+   "gid": "1809235871742769",
+   "date": 1756803656,
+   "title": "Into the Unjust - Out Now!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809235871742769"
+  },
+  {
+   "gid": "1809869180029516",
+   "date": 1756980695,
+   "title": "Hotfix 01.004.001",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1809869180029516"
+  },
+  {
+   "gid": "1810503566574689",
+   "date": 1758015601,
+   "title": "Patch 01.400.002",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1810503566574689"
+  },
+  {
+   "gid": "1811772772210855",
+   "date": 1758718921,
+   "title": "State of the Game Update #1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772210855"
+  },
+  {
+   "gid": "1811772772502502",
+   "date": 1759480219,
+   "title": "HELLDIVERS 2: Tech Blog #1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1811772772502502"
+  },
+  {
+   "gid": "1814309641437204",
+   "date": 1761210259,
+   "title": "Into the Unjust: 4.1.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1814309641437204"
+  },
+  {
+   "gid": "1815034433029683",
+   "date": 1762251522,
+   "title": "Into the Unjust: 4.1.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815034433029683"
+  },
+  {
+   "gid": "1815580768262429",
+   "date": 1762437790,
+   "title": "“Diving into the Development Team” part 1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1815580768262429"
+  },
+  {
+   "gid": "1816307528973177",
+   "date": 1763460648,
+   "title": "Into the Unjust: 4.1.2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816307528973177"
+  },
+  {
+   "gid": "1816849002023581",
+   "date": 1764079586,
+   "title": "Python Commandos Premium Warbond airdrops into the jungle on December 2!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002023581"
+  },
+  {
+   "gid": "1817483467047924",
+   "date": 1764670145,
+   "title": "Into the Unjust: 5.0.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1817483467047924"
+  },
+  {
+   "gid": "1817483467048624",
+   "date": 1764688243,
+   "title": "HELLDIVERS 2 Tech Blog #2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1817483467048624"
+  },
+  {
+   "gid": "1818752592123763",
+   "date": 1765462117,
+   "title": "The HELLDIVERS™ 2 x Killzone items return as a Legendary Warbond December 18th",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1818752592123763"
+  },
+  {
+   "gid": "1819386365089194",
+   "date": 1766052106,
+   "title": "Helldivers, the Festival of Reckoning is here!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1819386365089194"
+  },
+  {
+   "gid": "1821288646588125",
+   "date": 1768313195,
+   "title": "The Redacted Regiment sneaks its way into Helldivers 2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1821288646588125"
+  },
+  {
+   "gid": "1822556746158519",
+   "date": 1769076199,
+   "title": "Into the Unjust: 5.0.2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746158519"
+  },
+  {
+   "gid": "1822556746169111",
+   "date": 1769522748,
+   "title": "Helldivers break down the barricades with Siege Breakers!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1822556746169111"
+  },
+  {
+   "gid": "1823191198616322",
+   "date": 1770113379,
+   "title": "Into the Unjust: 6.0.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823191198616322"
+  },
+  {
+   "gid": "1823825466508392",
+   "date": 1770728746,
+   "title": "The Cyborg Threat Reveals itself in Machinery of Oppression",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466508392"
+  },
+  {
+   "gid": "1823825466508476",
+   "date": 1770732008,
+   "title": "Machinery of Oppression 6.0.3",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1823825466508476"
+  },
+  {
+   "gid": "1826362059920469",
+   "date": 1772705007,
+   "title": "Helldivers 2 Large Build Delist",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059920469"
+  },
+  {
+   "gid": "1826362059932924",
+   "date": 1773151616,
+   "title": "Hunker down with the Entrenched Division!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826362059932924"
+  },
+  {
+   "gid": "1826992588603352",
+   "date": 1773741633,
+   "title": "Machinery of Oppression: 6.1.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588603352"
+  },
+  {
+   "gid": "1826992588603981",
+   "date": 1773757099,
+   "title": "Revealing our Machinery of Oppression Content Roadmap!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1826992588603981"
+  },
+  {
+   "gid": "1827626365767668",
+   "date": 1774432850,
+   "title": "Machinery of Oppression: 6.1.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1827626365767668"
+  },
+  {
+   "gid": "1830163047268452",
+   "date": 1776776501,
+   "title": "The Exo Experts Warbond lumbers onto the battlefield",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830163047268452"
+  },
+  {
+   "gid": "1830797770244667",
+   "date": 1777366896,
+   "title": "Machinery of Oppression: 6.2.2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1830797770244667"
+  },
+  {
+   "gid": "1832065502808266",
+   "date": 1778058078,
+   "title": "Machinery of Oppression: 6.2.3",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502808266"
+  },
+  {
+   "gid": "1832065502814889",
+   "date": 1778241585,
+   "title": "Transmission from Super Earth Command",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832065502814889"
+  },
+  {
+   "gid": "1832700592797815",
+   "date": 1779099078,
+   "title": "Scheduled Maintenance on May 19",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592797815"
+  },
+  {
+   "gid": "1832700592800413",
+   "date": 1779181217,
+   "title": "Machinery of Oppression: 6.2.4",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1832700592800413"
+  },
+  {
+   "gid": "1833334318568672",
+   "date": 1779364955,
+   "title": "Optimizing Liberty - Incoming Patch: 27th May",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833334318568672"
+  },
+  {
+   "gid": "1833968530888110",
+   "date": 1779973713,
+   "title": "Patch Delay Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530888110"
+  },
+  {
+   "gid": "1833968530890469",
+   "date": 1780045460,
+   "title": "Machinery of Oppression: 6.2.5",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530890469"
+  },
+  {
+   "gid": "1834602721187299",
+   "date": 1780574506,
+   "title": "Transmission from the Game Director: Progressing Progression",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721187299"
+  },
+  {
+   "gid": "1834602721201568",
+   "date": 1781006469,
+   "title": "Machinery of Oppression: 6.2.6",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1834602721201568"
+  },
+  {
+   "gid": "1835236783573530",
+   "date": 1781600424,
+   "title": "Machinery of Oppression: 6.3.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1835236783573530"
+  },
+  {
+   "gid": "1836506165570311",
+   "date": 1783080240,
+   "title": "Celebrating our community",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165570311"
+  },
+  {
+   "gid": "1836506165577515",
+   "date": 1783414817,
+   "title": "Machinery of Oppression: 6.3.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165577515"
+  },
+  {
+   "gid": "1836506165583161",
+   "date": 1783598407,
+   "title": "Super Credits & A Fairer Galactic War",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165583161"
+  },
+  {
+   "gid": "1839041357026952",
+   "date": 1784818841,
+   "title": "The Supply FRV comes home for good in October",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839041357026952"
+  },
+  {
+   "gid": "1839676055885014",
+   "date": 1785412839,
+   "title": "HELLDIVERS™ 2 x Warhammer 40,000 Legendary Warbond arrives August 12th",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1839676055885014"
+  },
+  {
+   "gid": "1840310314341623",
+   "date": 1786017660,
+   "title": "HELLDIVERS 2 Is Raising the Level Cap to 300",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840310314341623"
+  },
+  {
+   "gid": "1840944183773413",
+   "date": 1786525290,
+   "title": "Devoid of Liberty: 7.0.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773413"
+  },
+  {
+   "gid": "1840944183773828",
+   "date": 1786536335,
+   "title": "HELLDIVERS 2 Devoid of Liberty Update Out Now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183773828"
+  },
+  {
+   "gid": "1840944183785447",
+   "date": 1786957199,
+   "title": "Devoid of Liberty: 7.0.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183785447"
+  },
+  {
+   "gid": "1840944183788638",
+   "date": 1787054998,
+   "title": "Helldivers 2: A deep dive into the Illuminate Void",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1840944183788638"
+  },
+  {
+   "gid": "1841579228677702",
+   "date": 1787648469,
+   "title": "Devoid of Liberty: 7.0.2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1841579228677702"
+  },
+  {
+   "gid": "1842846814443227",
+   "date": 1788440567,
+   "title": "Behind the scenes: The Hive Lord",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842846814443227"
+  },
+  {
+   "gid": "1843481262704549",
+   "date": 1789477829,
+   "title": "Let shockwaves of Freedom roll across the battlefield with Ironclad Democracy!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704549"
+  },
+  {
+   "gid": "1844115010503588",
+   "date": 1790067627,
+   "title": "Devoid of Liberty: 7.1.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503588"
+  },
+  {
+   "gid": "1844751498220713",
+   "date": 1790240423,
+   "title": "Devoid of Liberty: 7.1.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498220713"
+  },
+  {
+   "gid": "1844751498224310",
+   "date": 1790337661,
+   "title": "Launching Devoid of Liberty: A Look Back",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844751498224310"
+  },
+  {
+   "gid": "1845383656392989",
+   "date": 1791193052,
+   "title": "Galactic Network Maintenance",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656392989"
+  },
+  {
+   "gid": "1846018067943957",
+   "date": 1791896839,
+   "title": "Line Up the Perfect Shot with the Scope of Authority Premium Warbond!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846018067943957"
+  },
+  {
+   "gid": "1846651706693839",
+   "date": 1792476019,
+   "title": "Changing anti-cheat in HELLDIVERS 2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706693839"
+  },
+  {
+   "gid": "1846651706694344",
+   "date": 1792486911,
+   "title": "Devoid of Liberty: 7.2.0",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1846651706694344"
+  },
+  {
+   "gid": "1847286114032347",
+   "date": 1792670404,
+   "title": "Devoid of Liberty: 7.2.1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847286114032347"
+  },
+  {
+   "gid": "1847920302234123",
+   "date": 1793268006,
+   "title": "Devoid of Liberty: 7.2.2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302234123"
+  },
+  {
+   "gid": "1847920302251987",
+   "date": 1793712441,
+   "title": "Helldivers 2: new poisonous Terminid types, bug caves spawn across the galaxy",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1847920302251987"
+  },
+  {
+   "gid": "1848664643360280",
+   "date": 1794328293,
+   "title": "Developer Blog: November 2026",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1848664643360280"
+  },
+  {
+   "gid": "1849192144178073",
+   "date": 1794392410,
+   "title": "Devoid of Liberty: 7.2.3",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1849192144178073"
+  }
+ ]
+}

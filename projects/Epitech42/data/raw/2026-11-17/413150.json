@@ -1,0 +1,1103 @@
+{
+ "appid": 413150,
+ "name": "Stardew Valley",
+ "collected_at": 1794906930,
+ "reviews": [
+  {
+   "date": 1454284800,
+   "positive": 1701,
+   "negative": 15
+  },
+  {
+   "date": 1456790400,
+   "positive": 10088,
+   "negative": 137
+  },
+  {
+   "date": 1459468800,
+   "positive": 3269,
+   "negative": 72
+  },
+  {
+   "date": 1462060800,
+   "positive": 1713,
+   "negative": 44
+  },
+  {
+   "date": 1464739200,
+   "positive": 1813,
+   "negative": 47
+  },
+  {
+   "date": 1467331200,
+   "positive": 1940,
+   "negative": 54
+  },
+  {
+   "date": 1470009600,
+   "positive": 990,
+   "negative": 19
+  },
+  {
+   "date": 1472688000,
+   "positive": 816,
+   "negative": 10
+  },
+  {
+   "date": 1475280000,
+   "positive": 1167,
+   "negative": 36
+  },
+  {
+   "date": 1477958400,
+   "positive": 9847,
+   "negative": 47
+  },
+  {
+   "date": 1480550400,
+   "positive": 2022,
+   "negative": 78
+  },
+  {
+   "date": 1483228800,
+   "positive": 1952,
+   "negative": 76
+  },
+  {
+   "date": 1485907200,
+   "positive": 1723,
+   "negative": 52
+  },
+  {
+   "date": 1488326400,
+   "positive": 1497,
+   "negative": 64
+  },
+  {
+   "date": 1491004800,
+   "positive": 1236,
+   "negative": 46
+  },
+  {
+   "date": 1493596800,
+   "positive": 1222,
+   "negative": 64
+  },
+  {
+   "date": 1496275200,
+   "positive": 2374,
+   "negative": 103
+  },
+  {
+   "date": 1498867200,
+   "positive": 3887,
+   "negative": 169
+  },
+  {
+   "date": 1501545600,
+   "positive": 1268,
+   "negative": 49
+  },
+  {
+   "date": 1504224000,
+   "positive": 1022,
+   "negative": 30
+  },
+  {
+   "date": 1506816000,
+   "positive": 1128,
+   "negative": 45
+  },
+  {
+   "date": 1509494400,
+   "positive": 10018,
+   "negative": 83
+  },
+  {
+   "date": 1512086400,
+   "positive": 1875,
+   "negative": 52
+  },
+  {
+   "date": 1514764800,
+   "positive": 1983,
+   "negative": 73
+  },
+  {
+   "date": 1517443200,
+   "positive": 1228,
+   "negative": 50
+  },
+  {
+   "date": 1519862400,
+   "positive": 979,
+   "negative": 44
+  },
+  {
+   "date": 1522540800,
+   "positive": 951,
+   "negative": 32
+  },
+  {
+   "date": 1525132800,
+   "positive": 2900,
+   "negative": 139
+  },
+  {
+   "date": 1527811200,
+   "positive": 2040,
+   "negative": 130
+  },
+  {
+   "date": 1530403200,
+   "positive": 1985,
+   "negative": 90
+  },
+  {
+   "date": 1533081600,
+   "positive": 2159,
+   "negative": 158
+  },
+  {
+   "date": 1535760000,
+   "positive": 988,
+   "negative": 76
+  },
+  {
+   "date": 1538352000,
+   "positive": 925,
+   "negative": 66
+  },
+  {
+   "date": 1541030400,
+   "positive": 7891,
+   "negative": 69
+  },
+  {
+   "date": 1543622400,
+   "positive": 1671,
+   "negative": 91
+  },
+  {
+   "date": 1546300800,
+   "positive": 1739,
+   "negative": 113
+  },
+  {
+   "date": 1548979200,
+   "positive": 1243,
+   "negative": 73
+  },
+  {
+   "date": 1551398400,
+   "positive": 1406,
+   "negative": 80
+  },
+  {
+   "date": 1554076800,
+   "positive": 1041,
+   "negative": 67
+  },
+  {
+   "date": 1556668800,
+   "positive": 1177,
+   "negative": 57
+  },
+  {
+   "date": 1559347200,
+   "positive": 12757,
+   "negative": 129
+  },
+  {
+   "date": 1561939200,
+   "positive": 12824,
+   "negative": 169
+  },
+  {
+   "date": 1564617600,
+   "positive": 864,
+   "negative": 70
+  },
+  {
+   "date": 1567296000,
+   "positive": 761,
+   "negative": 53
+  },
+  {
+   "date": 1569888000,
+   "positive": 1387,
+   "negative": 45
+  },
+  {
+   "date": 1572566400,
+   "positive": 13438,
+   "negative": 81
+  },
+  {
+   "date": 1575158400,
+   "positive": 14063,
+   "negative": 198
+  },
+  {
+   "date": 1577836800,
+   "positive": 9770,
+   "negative": 201
+  },
+  {
+   "date": 1580515200,
+   "positive": 8299,
+   "negative": 294
+  },
+  {
+   "date": 1583020800,
+   "positive": 9248,
+   "negative": 179
+  },
+  {
+   "date": 1585699200,
+   "positive": 8528,
+   "negative": 154
+  },
+  {
+   "date": 1588291200,
+   "positive": 6003,
+   "negative": 100
+  },
+  {
+   "date": 1590969600,
+   "positive": 5485,
+   "negative": 125
+  },
+  {
+   "date": 1593561600,
+   "positive": 8301,
+   "negative": 226
+  },
+  {
+   "date": 1596240000,
+   "positive": 5526,
+   "negative": 146
+  },
+  {
+   "date": 1598918400,
+   "positive": 4483,
+   "negative": 75
+  },
+  {
+   "date": 1601510400,
+   "positive": 4170,
+   "negative": 71
+  },
+  {
+   "date": 1604188800,
+   "positive": 8988,
+   "negative": 80
+  },
+  {
+   "date": 1606780800,
+   "positive": 12784,
+   "negative": 194
+  },
+  {
+   "date": 1609459200,
+   "positive": 15439,
+   "negative": 256
+  },
+  {
+   "date": 1612137600,
+   "positive": 10076,
+   "negative": 264
+  },
+  {
+   "date": 1614556800,
+   "positive": 9801,
+   "negative": 172
+  },
+  {
+   "date": 1617235200,
+   "positive": 7216,
+   "negative": 115
+  },
+  {
+   "date": 1619827200,
+   "positive": 6463,
+   "negative": 94
+  },
+  {
+   "date": 1622505600,
+   "positive": 7288,
+   "negative": 142
+  },
+  {
+   "date": 1625097600,
+   "positive": 9638,
+   "negative": 174
+  },
+  {
+   "date": 1627776000,
+   "positive": 9588,
+   "negative": 200
+  },
+  {
+   "date": 1630454400,
+   "positive": 6404,
+   "negative": 109
+  },
+  {
+   "date": 1633046400,
+   "positive": 6229,
+   "negative": 116
+  },
+  {
+   "date": 1635724800,
+   "positive": 11606,
+   "negative": 119
+  },
+  {
+   "date": 1638316800,
+   "positive": 9628,
+   "negative": 145
+  },
+  {
+   "date": 1640995200,
+   "positive": 10108,
+   "negative": 182
+  },
+  {
+   "date": 1643673600,
+   "positive": 6814,
+   "negative": 133
+  },
+  {
+   "date": 1646092800,
+   "positive": 6805,
+   "negative": 100
+  },
+  {
+   "date": 1648771200,
+   "positive": 6059,
+   "negative": 113
+  },
+  {
+   "date": 1651363200,
+   "positive": 6776,
+   "negative": 98
+  },
+  {
+   "date": 1654041600,
+   "positive": 8338,
+   "negative": 147
+  },
+  {
+   "date": 1656633600,
+   "positive": 10259,
+   "negative": 189
+  },
+  {
+   "date": 1659312000,
+   "positive": 7704,
+   "negative": 147
+  },
+  {
+   "date": 1661990400,
+   "positive": 5391,
+   "negative": 100
+  },
+  {
+   "date": 1664582400,
+   "positive": 4909,
+   "negative": 104
+  },
+  {
+   "date": 1667260800,
+   "positive": 10222,
+   "negative": 108
+  },
+  {
+   "date": 1669852800,
+   "positive": 8120,
+   "negative": 149
+  },
+  {
+   "date": 1672531200,
+   "positive": 10473,
+   "negative": 212
+  },
+  {
+   "date": 1675209600,
+   "positive": 7596,
+   "negative": 160
+  },
+  {
+   "date": 1677628800,
+   "positive": 8114,
+   "negative": 147
+  },
+  {
+   "date": 1680307200,
+   "positive": 6749,
+   "negative": 138
+  },
+  {
+   "date": 1682899200,
+   "positive": 5816,
+   "negative": 126
+  },
+  {
+   "date": 1685577600,
+   "positive": 7157,
+   "negative": 160
+  },
+  {
+   "date": 1688169600,
+   "positive": 10497,
+   "negative": 230
+  },
+  {
+   "date": 1690848000,
+   "positive": 8469,
+   "negative": 194
+  },
+  {
+   "date": 1693526400,
+   "positive": 6194,
+   "negative": 142
+  },
+  {
+   "date": 1696118400,
+   "positive": 6748,
+   "negative": 132
+  },
+  {
+   "date": 1698796800,
+   "positive": 15056,
+   "negative": 149
+  },
+  {
+   "date": 1701388800,
+   "positive": 8270,
+   "negative": 178
+  },
+  {
+   "date": 1704067200,
+   "positive": 9163,
+   "negative": 223
+  },
+  {
+   "date": 1706745600,
+   "positive": 7375,
+   "negative": 181
+  },
+  {
+   "date": 1709251200,
+   "positive": 19651,
+   "negative": 312
+  },
+  {
+   "date": 1711929600,
+   "positive": 17255,
+   "negative": 1220
+  },
+  {
+   "date": 1714521600,
+   "positive": 13674,
+   "negative": 250
+  },
+  {
+   "date": 1717200000,
+   "positive": 10227,
+   "negative": 170
+  },
+  {
+   "date": 1719792000,
+   "positive": 16384,
+   "negative": 267
+  },
+  {
+   "date": 1722470400,
+   "positive": 10897,
+   "negative": 169
+  },
+  {
+   "date": 1725148800,
+   "positive": 7574,
+   "negative": 143
+  },
+  {
+   "date": 1727740800,
+   "positive": 12331,
+   "negative": 247
+  },
+  {
+   "date": 1730419200,
+   "positive": 33252,
+   "negative": 223
+  },
+  {
+   "date": 1733011200,
+   "positive": 23128,
+   "negative": 271
+  },
+  {
+   "date": 1735689600,
+   "positive": 11989,
+   "negative": 186
+  },
+  {
+   "date": 1738368000,
+   "positive": 8040,
+   "negative": 164
+  },
+  {
+   "date": 1740787200,
+   "positive": 11486,
+   "negative": 196
+  },
+  {
+   "date": 1743465600,
+   "positive": 8268,
+   "negative": 144
+  },
+  {
+   "date": 1746057600,
+   "positive": 7832,
+   "negative": 148
+  },
+  {
+   "date": 1748736000,
+   "positive": 9297,
+   "negative": 172
+  },
+  {
+   "date": 1751328000,
+   "positive": 16939,
+   "negative": 404
+  },
+  {
+   "date": 1754006400,
+   "positive": 11161,
+   "negative": 194
+  },
+  {
+   "date": 1756684800,
+   "positive": 8089,
+   "negative": 147
+  },
+  {
+   "date": 1759276800,
+   "positive": 9651,
+   "negative": 146
+  },
+  {
+   "date": 1761955200,
+   "positive": 8902,
+   "negative": 150
+  },
+  {
+   "date": 1764547200,
+   "positive": 10203,
+   "negative": 139
+  },
+  {
+   "date": 1767225600,
+   "positive": 11659,
+   "negative": 190
+  },
+  {
+   "date": 1769904000,
+   "positive": 8135,
+   "negative": 134
+  },
+  {
+   "date": 1772323200,
+   "positive": 11106,
+   "negative": 199
+  },
+  {
+   "date": 1775001600,
+   "positive": 8199,
+   "negative": 126
+  },
+  {
+   "date": 1777593600,
+   "positive": 8908,
+   "negative": 173
+  },
+  {
+   "date": 1780272000,
+   "positive": 8252,
+   "negative": 164
+  },
+  {
+   "date": 1782864000,
+   "positive": 10339,
+   "negative": 177
+  },
+  {
+   "date": 1785542400,
+   "positive": 7709,
+   "negative": 160
+  },
+  {
+   "date": 1788220800,
+   "positive": 5782,
+   "negative": 122
+  },
+  {
+   "date": 1790812800,
+   "positive": 7226,
+   "negative": 119
+  },
+  {
+   "date": 1793491200,
+   "positive": 2997,
+   "negative": 50
+  }
+ ],
+ "announcements": [
+  {
+   "gid": "341514010382413326",
+   "date": 1454099705,
+   "title": "Release Date & Trailer!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/341514010382413326"
+  },
+  {
+   "gid": "4249665521683327507",
+   "date": 1454099705,
+   "title": "Release Date & Trailer!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683327507"
+  },
+  {
+   "gid": "295354567838563146",
+   "date": 1456522406,
+   "title": "Stardew Valley Is Now Available!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/295354567838563146"
+  },
+  {
+   "gid": "4249665521683327387",
+   "date": 1456522406,
+   "title": "Stardew Valley Is Now Available!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683327387"
+  },
+  {
+   "gid": "295354567839772173",
+   "date": 1456551315,
+   "title": "New Build -- Version 1.01",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/295354567839772173"
+  },
+  {
+   "gid": "4249665521683327260",
+   "date": 1456551315,
+   "title": "New Build -- Version 1.01",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683327260"
+  },
+  {
+   "gid": "295354567843716008",
+   "date": 1456645618,
+   "title": "New Build -- 1.02",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/295354567843716008"
+  },
+  {
+   "gid": "4249665521683327136",
+   "date": 1456645618,
+   "title": "New Build -- 1.02",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683327136"
+  },
+  {
+   "gid": "295354567847022728",
+   "date": 1456724686,
+   "title": "New Build -- 1.03",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/295354567847022728"
+  },
+  {
+   "gid": "4249665521683327024",
+   "date": 1456724686,
+   "title": "New Build -- 1.03",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683327024"
+  },
+  {
+   "gid": "295354567849621949",
+   "date": 1456786832,
+   "title": "Note From The Developer",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/295354567849621949"
+  },
+  {
+   "gid": "4249665521683326901",
+   "date": 1456786832,
+   "title": "Note From The Developer",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326901"
+  },
+  {
+   "gid": "295355202034064020",
+   "date": 1456900609,
+   "title": "New Build -- 1.04",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/295355202034064020"
+  },
+  {
+   "gid": "4249665521683326788",
+   "date": 1456900609,
+   "title": "New Build -- 1.04",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326788"
+  },
+  {
+   "gid": "295355202044184924",
+   "date": 1457142593,
+   "title": "New Build -- 1.05",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/295355202044184924"
+  },
+  {
+   "gid": "4249665521683326658",
+   "date": 1457142593,
+   "title": "New Build -- 1.05",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326658"
+  },
+  {
+   "gid": "272838467482279445",
+   "date": 1458497407,
+   "title": "New Build -- 1.06",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/272838467482279445"
+  },
+  {
+   "gid": "4249665521683326546",
+   "date": 1458497407,
+   "title": "New Build -- 1.06",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326546"
+  },
+  {
+   "gid": "260454846495263550",
+   "date": 1459805784,
+   "title": "New Build -- 1.07",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/260454846495263550"
+  },
+  {
+   "gid": "4249665521683326441",
+   "date": 1459805784,
+   "title": "New Build -- 1.07",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326441"
+  },
+  {
+   "gid": "252584317726417683",
+   "date": 1469817045,
+   "title": "Stardew Valley is now available for Mac and Linux!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/252584317726417683"
+  },
+  {
+   "gid": "4249665521683326327",
+   "date": 1469817045,
+   "title": "Stardew Valley is now available for Mac and Linux!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326327"
+  },
+  {
+   "gid": "243582826899800937",
+   "date": 1475518987,
+   "title": "Stardew v1.1 is here!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/243582826899800937"
+  },
+  {
+   "gid": "4249665521683326220",
+   "date": 1475518987,
+   "title": "Stardew v1.1 is here!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326220"
+  },
+  {
+   "gid": "243583460802778215",
+   "date": 1475847461,
+   "title": "v1.11",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/243583460802778215"
+  },
+  {
+   "gid": "4249665521683326104",
+   "date": 1475847461,
+   "title": "v1.11",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683326104"
+  },
+  {
+   "gid": "1858141774322176304",
+   "date": 1493134553,
+   "title": "Stardew Valley available to play in 7 languages!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1858141774322176304"
+  },
+  {
+   "gid": "4249665521683325989",
+   "date": 1493134553,
+   "title": "Stardew Valley available to play in 7 languages!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4249665521683325989"
+  },
+  {
+   "gid": "2394103650903066595",
+   "date": 1525104848,
+   "title": "Stardew Valley Opt-In Multiplayer Beta now available",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2394103650903066595"
+  },
+  {
+   "gid": "2451533424631261234",
+   "date": 1533135858,
+   "title": "Stardew Valley 1.3 (Multiplayer Update) is now available!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2451533424631261234"
+  },
+  {
+   "gid": "3316234163929086268",
+   "date": 1542648251,
+   "title": "Patch Notes -- 1.3.32",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3316234163929086268"
+  },
+  {
+   "gid": "2417770561729748608",
+   "date": 1546978453,
+   "title": "Patch Notes -- 1.3.33",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2417770561729748608"
+  },
+  {
+   "gid": "2425653583383063854",
+   "date": 1548356247,
+   "title": "Open beta for new langauges: French, Italian, Turkish, Hungarian, and Korean",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2425653583383063854"
+  },
+  {
+   "gid": "2534869043308606543",
+   "date": 1551465790,
+   "title": "Update 1.3.36 now live",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2534869043308606543"
+  },
+  {
+   "gid": "2551782186252111811",
+   "date": 1574791203,
+   "title": "1.4 Content Update -- Now Available!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2551782186252111811"
+  },
+  {
+   "gid": "2551782186275113918",
+   "date": 1575341125,
+   "title": "1.4.1 Post-Launch Patch Now Available",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2551782186275113918"
+  },
+  {
+   "gid": "2587811707163913371",
+   "date": 1575506807,
+   "title": "1.4.2 Patch Now Out",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2587811707163913371"
+  },
+  {
+   "gid": "3370312875252912946",
+   "date": 1576265072,
+   "title": "1.4.3 Patch Out Now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3370312875252912946"
+  },
+  {
+   "gid": "2609208878384508280",
+   "date": 1580490900,
+   "title": "Stardew Valley 1.4.4 patch out now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2609208878384508280"
+  },
+  {
+   "gid": "2582187916854282077",
+   "date": 1581449205,
+   "title": "1.4.5 Patch available now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/2582187916854282077"
+  },
+  {
+   "gid": "4090922416510393241",
+   "date": 1608573707,
+   "title": "1.5 Content Update -- Now Available!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4090922416510393241"
+  },
+  {
+   "gid": "3917534300075438555",
+   "date": 1608867245,
+   "title": "1.5.1 Patch Out Now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3917534300075438555"
+  },
+  {
+   "gid": "3942305442250117120",
+   "date": 1610150216,
+   "title": "1.5.2 Patch Out Now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/3942305442250117120"
+  },
+  {
+   "gid": "4483864038807527608",
+   "date": 1610753044,
+   "title": "1.5.3 Patch Out Now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4483864038807527608"
+  },
+  {
+   "gid": "4043637702552843393",
+   "date": 1611362645,
+   "title": "1.5.4 Patch Out Now",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4043637702552843393"
+  },
+  {
+   "gid": "4224935490655376107",
+   "date": 1638312360,
+   "title": "1.5.5 update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4224935490655376107"
+  },
+  {
+   "gid": "5320438099055137091",
+   "date": 1640116982,
+   "title": "1.5.6 -- Minor Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5320438099055137091"
+  },
+  {
+   "gid": "5059268543368563547",
+   "date": 1677434885,
+   "title": "Stardew Valley 7 year Anniversary",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5059268543368563547"
+  },
+  {
+   "gid": "5129083846339663245",
+   "date": 1686245971,
+   "title": "World Ocean Day Sale & Pledge",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5129083846339663245"
+  },
+  {
+   "gid": "5220291886485665820",
+   "date": 1695873682,
+   "title": "A Sneak Peek into the upcoming 1.6 update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5220291886485665820"
+  },
+  {
+   "gid": "5728086065197475718",
+   "date": 1708976378,
+   "title": "1.6 Release Date Announced!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5728086065197475718"
+  },
+  {
+   "gid": "7309977427453935016",
+   "date": 1710874250,
+   "title": "Stardew Valley 1.6 Update Available now!",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/7309977427453935016"
+  },
+  {
+   "gid": "5686430301712740414",
+   "date": 1710902912,
+   "title": "Patch 1.6.1 -- Bug fixes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301712740414"
+  },
+  {
+   "gid": "5686430301712742290",
+   "date": 1710902957,
+   "title": "Patch 1.6.1 -- Bug fixes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301712742290"
+  },
+  {
+   "gid": "5686430301716627452",
+   "date": 1710995041,
+   "title": "Patch 1.6.2",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5686430301716627452"
+  },
+  {
+   "gid": "5749481331434481650",
+   "date": 1711572834,
+   "title": "Stardew Valley 1.6.3 Patch",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5749481331434481650"
+  },
+  {
+   "gid": "5762994032391918138",
+   "date": 1713470920,
+   "title": "1.6.4 Patch",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762994032391918138"
+  },
+  {
+   "gid": "5762994032393818369",
+   "date": 1713515972,
+   "title": "1.6.4 hotfix 1",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762994032393818369"
+  },
+  {
+   "gid": "5762994032395159679",
+   "date": 1713547741,
+   "title": "1.6.5 patch notes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762994032395159679"
+  },
+  {
+   "gid": "5762994032407373731",
+   "date": 1713837290,
+   "title": "A message to Stardew Valley's Chinese players",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5762994032407373731"
+  },
+  {
+   "gid": "5759616966669183785",
+   "date": 1714160345,
+   "title": "Stardew Valley 1.6.6 Patch Notes",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5759616966669183785"
+  },
+  {
+   "gid": "5759616966673665763",
+   "date": 1714266600,
+   "title": "1.6.7 -- Fixes a bug in 1.6.6",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5759616966673665763"
+  },
+  {
+   "gid": "6146943657174036265",
+   "date": 1730743076,
+   "title": "1.6.9 Update Now Available",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6146943657174036265"
+  },
+  {
+   "gid": "6146943657174044314",
+   "date": 1730765057,
+   "title": "1.6.10 Bug Fix Patch",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6146943657174044314"
+  },
+  {
+   "gid": "6148070194801553515",
+   "date": 1730875594,
+   "title": "Update 1.6.11",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6148070194801553515"
+  },
+  {
+   "gid": "6148070194801588759",
+   "date": 1730967948,
+   "title": "1.6.12 Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6148070194801588759"
+  },
+  {
+   "gid": "6148070194801619948",
+   "date": 1731049465,
+   "title": "Minor update 1.6.13",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6148070194801619948"
+  },
+  {
+   "gid": "6148070194801749418",
+   "date": 1731398840,
+   "title": "1.6.14 Update",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6148070194801749418"
+  },
+  {
+   "gid": "1783238125358744",
+   "date": 1731978991,
+   "title": "Stardew Valley x Fangamer Merch Holiday Sale",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1783238125358744"
+  },
+  {
+   "gid": "1784506358991087",
+   "date": 1732743342,
+   "title": "Stardew Valley up for \"Labor of Love\" Steam Award Nomination",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1784506358991087"
+  },
+  {
+   "gid": "1786573930637526",
+   "date": 1734655345,
+   "title": "Stardew Valley up for \"Labor of Love\" Steam Award",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1786573930637526"
+  },
+  {
+   "gid": "1786573930663336",
+   "date": 1734718461,
+   "title": "Stardew Valley 1.6.15 Patch now available",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1786573930663336"
+  },
+  {
+   "gid": "1816849002015096",
+   "date": 1763747889,
+   "title": "Stardew Valley Merchandise by Fangamer -- Special Promotion",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1816849002015096"
+  },
+  {
+   "gid": "1825727806709248",
+   "date": 1772149200,
+   "title": "Stardew Valley 10-year Anniversary",
+   "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1825727806709248"
+  }
+ ]
+}
